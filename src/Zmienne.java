@@ -34,5 +34,7 @@ public class Zmienne {
 
         System.out.println("Mój wynik " +  liczba2);
 
+        //    https://github.com/przemjan/trzeciaIgr12022
+
     }
 }
